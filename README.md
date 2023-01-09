@@ -1,3 +1,5 @@
+[![DOI](https://zenodo.org/badge/587036871.svg)](https://zenodo.org/badge/latestdoi/587036871)
+
 ## Introduction
 
 Welcome to the data repository for Card et al. Genome evolution and the future of phylogenomics of non-avian reptiles. 2023. *Animals*. Please see below for information on how to retrieve data files associated with this article.
